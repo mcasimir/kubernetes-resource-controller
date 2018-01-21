@@ -1,0 +1,6 @@
+apiVersion: mcasimir.github.com/v1
+kind: Stuff
+metadata:
+  name: stuff-1
+spec:
+  message: Hi!
