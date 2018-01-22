@@ -1,6 +1,6 @@
 {
   "name": "kubernetes-resource-controller",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Api to build kubernetes resource controllers, with auto config and registering of custom resources.",
   "main": "lib/index.js",
   "scripts": {
