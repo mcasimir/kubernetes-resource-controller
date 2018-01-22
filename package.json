@@ -21,7 +21,7 @@
   "dependencies": {
     "ajv": "5.3.0",
     "js-yaml": "3.10.0",
-    "kubernetes-api-client": "1.0.7",
+    "kubernetes-api-client": "1.0.8",
     "winston": "2.4.0"
   },
   "devDependencies": {
